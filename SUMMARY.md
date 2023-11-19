@@ -12,8 +12,11 @@
 * [🧆 Тюфтелі з рисом](receipes/tyufteli-z-risom.md)
 * [🍝 Карбонара](receipes/karbonara.md)
 
-***
+## ✏ В процесі... <a href="#in-progress" id="in-progress"></a>
 
-* [🥞 Сирники](sirniki.md)
-* [🍜 Суп з яловичиною та квасолею](sup-z-yalovichinoyu-ta-kvasoleyu.md)
-* [🧀 Соус сметанковий з укропом та фетою](sous-smetankovii-z-ukropom-ta-fetoyu.md)
+* [🥧 Шарлотка](in-progress/sharlotka.md)
+* [🍰 Чізкейк](in-progress/chizkeik.md)
+* [🧀 Соус сметанковий з укропом та фетою](in-progress/sous-smetankovii-z-ukropom-ta-fetoyu.md)
+* [🍜 Суп з яловичиною та квасолею](in-progress/sup-z-yalovichinoyu-ta-kvasoleyu.md)
+* [🥞 Сирники](in-progress/sirniki.md)
+* [🍖 Запечена полядвиця](in-progress/zapechena-polyadvicya.md)

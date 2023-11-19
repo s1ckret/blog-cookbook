@@ -29,6 +29,6 @@ description: Ти знайшов найпрактичнішу книгу рец�
 {% tab title="Десерти" %}
 * [morkvyano-yabluchnii-salat.md](receipes/morkvyano-yabluchnii-salat.md "mention")
 * [vivsyana-zapikanka-z-bananom.md](receipes/vivsyana-zapikanka-z-bananom.md "mention")
-* [sirniki.md](sirniki.md "mention")
+* [sirniki.md](in-progress/sirniki.md "mention")
 {% endtab %}
 {% endtabs %}
