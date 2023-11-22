@@ -11,6 +11,7 @@
 * [🍛 Гречка з грибами](receipes/grechka-z-gribami.md)
 * [🧆 Тюфтелі з рисом](receipes/tyufteli-z-risom.md)
 * [🍝 Карбонара](receipes/karbonara.md)
+* [🍖 Запечена полядвиця](receipes/zapechena-polyadvicya.md)
 
 ## ✏ В процесі... <a href="#in-progress" id="in-progress"></a>
 
@@ -19,4 +20,3 @@
 * [🧀 Соус сметанковий з укропом та фетою](in-progress/sous-smetankovii-z-ukropom-ta-fetoyu.md)
 * [🍜 Суп з яловичиною та квасолею](in-progress/sup-z-yalovichinoyu-ta-kvasoleyu.md)
 * [🥞 Сирники](in-progress/sirniki.md)
-* [🍖 Запечена полядвиця](in-progress/zapechena-polyadvicya.md)
