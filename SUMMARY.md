@@ -12,6 +12,7 @@
 * [🧆 Тюфтелі з рисом](receipes/tyufteli-z-risom.md)
 * [🍝 Карбонара](receipes/karbonara.md)
 * [🍖 Запечена полядвиця](receipes/zapechena-polyadvicya.md)
+* [🧆 Курячі котлети на пару](receipes/kuryachi-kotleti-na-paru.md)
 
 ## ✏ В процесі... <a href="#in-progress" id="in-progress"></a>
 
