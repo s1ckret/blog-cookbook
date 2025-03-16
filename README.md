@@ -23,11 +23,11 @@ description: Ти знайшов найпрактичнішу книгу рец�
 {% endtab %}
 
 {% tab title="Салати" %}
-* [morkvyano-yabluchnii-salat.md](sekretna-kniga-receptiv/salati/morkvyano-yabluchnii-salat.md "mention")
+* [salat.md](sekretna-kniga-receptiv/salati/salat.md "mention")
 {% endtab %}
 
 {% tab title="Солодке" %}
-* [morkvyano-yabluchnii-salat.md](sekretna-kniga-receptiv/salati/morkvyano-yabluchnii-salat.md "mention")
+* [salat.md](sekretna-kniga-receptiv/salati/salat.md "mention")
 * [vivsyana-zapikanka-z-bananom.md](sekretna-kniga-receptiv/solodke/vivsyana-zapikanka-z-bananom.md "mention")
 * [sirniki.md](sekretna-kniga-receptiv/v-procesi/sirniki.md "mention")
 {% endtab %}
