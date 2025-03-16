@@ -72,7 +72,7 @@ description: Рецепт вівсяною запіканки на молоці 
 Щоб визначити готовність запіканки, просто потрусіть жарівню. Якщо запіканка не рухається, отже вона готова!
 {% endhint %}
 
-<table data-full-width="true"><thead><tr><th>0 хвилин</th><th>15 хвилин</th><th>30 хвилин</th><th>45 хвилин</th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/doc_2023-10-11_10-25-48 (2).gif" alt="Вівсяна запіканка з бананом 0 хвилин приготування" data-size="original"></td><td><img src="../.gitbook/assets/doc_2023-10-11_10-26-03 (1).gif" alt="Вівсяна запіканка з бананом 15 хвилин випікання" data-size="original"></td><td><img src="../.gitbook/assets/doc_2023-10-11_10-26-18.gif" alt="Вівсяна запіканка з бананом 30 хвилин випікання" data-size="original"></td><td><img src="../.gitbook/assets/doc_2023-10-11_10-26-31.gif" alt="івсяна запіканка з бананом 45 хвилин випікання" data-size="original"></td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th>0 хвилин</th><th>15 хвилин</th><th>30 хвилин</th><th>45 хвилин</th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/doc_2023-10-11_10-25-48 (2).gif" alt="Вівсяна запіканка з бананом 0 хвилин приготування" data-size="original"></td><td><img src="../../.gitbook/assets/doc_2023-10-11_10-26-03 (1).gif" alt="Вівсяна запіканка з бананом 15 хвилин випікання" data-size="original"></td><td><img src="../../.gitbook/assets/doc_2023-10-11_10-26-18.gif" alt="Вівсяна запіканка з бананом 30 хвилин випікання" data-size="original"></td><td><img src="../../.gitbook/assets/doc_2023-10-11_10-26-31.gif" alt="івсяна запіканка з бананом 45 хвилин випікання" data-size="original"></td></tr></tbody></table>
 
 ### Поживність в 100г
 

@@ -11,24 +11,24 @@ description: Ти знайшов найпрактичнішу книгу рец�
 Поки нічого немає :disappointed\_relieved:
 {% endtab %}
 
-{% tab title="Друге - не м'ясне" %}
-* [kartoplyane-pyure.md](receipes/kartoplyane-pyure.md "mention")
-* [grechka-z-gribami.md](receipes/grechka-z-gribami.md "mention")
-* [karbonara.md](receipes/karbonara.md "mention")
+{% tab title="Друге" %}
+* [kartoplyane-pyure.md](sekretna-kniga-receptiv/druge/kartoplyane-pyure.md "mention")
+* [grechka-z-gribami.md](sekretna-kniga-receptiv/druge/grechka-z-gribami.md "mention")
+* [karbonara.md](sekretna-kniga-receptiv/druge/karbonara.md "mention")
 {% endtab %}
 
-{% tab title="Друге - м'ясне" %}
-* [zapechena-kuryacha-grudka.md](receipes/zapechena-kuryacha-grudka.md "mention")
-* [tyufteli-z-risom.md](receipes/tyufteli-z-risom.md "mention")
+{% tab title="М'ясо" %}
+* [zapechena-kuryacha-grudka.md](sekretna-kniga-receptiv/myaso/zapechena-kuryacha-grudka.md "mention")
+* [tyufteli-z-risom.md](sekretna-kniga-receptiv/myaso/tyufteli-z-risom.md "mention")
 {% endtab %}
 
 {% tab title="Салати" %}
-* [morkvyano-yabluchnii-salat.md](receipes/morkvyano-yabluchnii-salat.md "mention")
+* [morkvyano-yabluchnii-salat.md](sekretna-kniga-receptiv/salati/morkvyano-yabluchnii-salat.md "mention")
 {% endtab %}
 
-{% tab title="Десерти" %}
-* [morkvyano-yabluchnii-salat.md](receipes/morkvyano-yabluchnii-salat.md "mention")
-* [vivsyana-zapikanka-z-bananom.md](receipes/vivsyana-zapikanka-z-bananom.md "mention")
-* [sirniki.md](in-progress/sirniki.md "mention")
+{% tab title="Солодке" %}
+* [morkvyano-yabluchnii-salat.md](sekretna-kniga-receptiv/salati/morkvyano-yabluchnii-salat.md "mention")
+* [vivsyana-zapikanka-z-bananom.md](sekretna-kniga-receptiv/solodke/vivsyana-zapikanka-z-bananom.md "mention")
+* [sirniki.md](sekretna-kniga-receptiv/v-procesi/sirniki.md "mention")
 {% endtab %}
 {% endtabs %}
