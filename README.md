@@ -29,6 +29,6 @@ description: Ти знайшов найпрактичнішу книгу рец�
 {% tab title="Солодке" %}
 * [salat.md](sekretna-kniga-receptiv/salati/salat.md "mention")
 * [vivsyana-zapikanka-z-bananom.md](sekretna-kniga-receptiv/solodke/vivsyana-zapikanka-z-bananom.md "mention")
-* [sirniki.md](sekretna-kniga-receptiv/v-procesi/sirniki.md "mention")
+* [sirniki.md](sekretna-kniga-receptiv/solodke/sirniki.md "mention")
 {% endtab %}
 {% endtabs %}
