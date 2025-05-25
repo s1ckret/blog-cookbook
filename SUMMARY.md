@@ -12,6 +12,8 @@
     * [🧆 Тюфтелі з рисом](sekretna-kniga-receptiv/myaso/tyufteli-z-risom.md)
     * [🍖 Запечена полядвиця](sekretna-kniga-receptiv/myaso/zapechena-polyadvicya.md)
     * [🧆 Курячі котлети на пару](sekretna-kniga-receptiv/myaso/kuryachi-kotleti-na-paru.md)
+    * [🧆 Курячі котлети смажені](sekretna-kniga-receptiv/myaso/kuryachi-kotleti-smazheni.md)
+    * [🥓 Свині відбивні](sekretna-kniga-receptiv/myaso/svini-vidbivni.md)
   * [🥗 Салати](sekretna-kniga-receptiv/salati/README.md)
     * [🥗 Салат 🍏🥕](sekretna-kniga-receptiv/salati/salat.md)
   * [🍰 Солодке](sekretna-kniga-receptiv/solodke/README.md)
