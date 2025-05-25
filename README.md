@@ -13,7 +13,7 @@ description: Ти знайшов найпрактичнішу книгу рец�
 
 {% tab title="Друге" %}
 * [kartoplyane-pyure.md](sekretna-kniga-receptiv/druge/kartoplyane-pyure.md "mention")
-* [grechka-z-gribami.md](sekretna-kniga-receptiv/druge/grechka-z-gribami.md "mention")
+* [grechka-z.md](sekretna-kniga-receptiv/druge/grechka-z.md "mention")
 * [karbonara.md](sekretna-kniga-receptiv/druge/karbonara.md "mention")
 {% endtab %}
 
