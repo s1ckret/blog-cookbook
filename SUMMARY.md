@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Секретна книга рецептів 🤫](README.md)
-  * [🍲 Перше](sekretna-kniga-receptiv/pershe.md)
+  * [🍲 Перше](sekretna-kniga-receptiv/pershe/README.md)
+    * [🍜 Суп з яловичиною та квасолею](sekretna-kniga-receptiv/pershe/sup-z-yalovichinoyu-ta-kvasoleyu.md)
   * [🧆 Друге](sekretna-kniga-receptiv/druge/README.md)
     * [🥔 Картопляне пюре](sekretna-kniga-receptiv/druge/kartoplyane-pyure.md)
     * [🍲 Гречка з 🍄‍🟫](sekretna-kniga-receptiv/druge/grechka-z.md)
@@ -24,7 +25,6 @@
   * [✏️ В процесі](sekretna-kniga-receptiv/v-procesi/README.md)
     * [🥧 Шарлотка](sekretna-kniga-receptiv/v-procesi/sharlotka.md)
     * [🍰 Чізкейк](sekretna-kniga-receptiv/v-procesi/chizkeik.md)
-    * [🍜 Суп з яловичиною та квасолею](sekretna-kniga-receptiv/v-procesi/sup-z-yalovichinoyu-ta-kvasoleyu.md)
     * [🍜 Суп з селерою та свининою](sekretna-kniga-receptiv/v-procesi/sup-z-seleroyu-ta-svininoyu.md)
     * [🍲 Тушена свинина з овочами](sekretna-kniga-receptiv/v-procesi/tushena-svinina-z-ovochami.md)
     * [🌾 Пшенична каша](sekretna-kniga-receptiv/v-procesi/pshenichna-kasha.md)
