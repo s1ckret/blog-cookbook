@@ -17,6 +17,7 @@
     * [🧆 Курячі котлети на пару](sekretna-kniga-receptiv/myaso/kuryachi-kotleti-na-paru.md)
     * [🧆 Курячі котлети смажені](sekretna-kniga-receptiv/myaso/kuryachi-kotleti-smazheni.md)
     * [🥓 Свині відбивні](sekretna-kniga-receptiv/myaso/svini-vidbivni.md)
+    * [🥓 Мʼясо по-французьки](sekretna-kniga-receptiv/myaso/m-yaso-po-francuzki.md)
   * [🥗 Салати](sekretna-kniga-receptiv/salati/README.md)
     * [🥗 Салат 🍏🥕](sekretna-kniga-receptiv/salati/salat.md)
     * [🍶 Соус сметанковий з огірком та уксусом](sekretna-kniga-receptiv/salati/sous-smetankovii-z-ogirkom-ta-uksusom.md)
