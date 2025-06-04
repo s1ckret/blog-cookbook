@@ -9,6 +9,7 @@
     * [🥔 Картопляне пюре](sekretna-kniga-receptiv/druge/kartoplyane-pyure.md)
     * [🍲 Гречка з 🍄‍🟫](sekretna-kniga-receptiv/druge/grechka-z.md)
     * [🍲 Гречка з 🧅🥕](sekretna-kniga-receptiv/druge/grechka-z-1.md)
+    * [🍲 Плов](sekretna-kniga-receptiv/druge/plov.md)
     * [🍝 Карбонара](sekretna-kniga-receptiv/druge/karbonara.md)
   * [🍗 М'ясо](sekretna-kniga-receptiv/myaso/README.md)
     * [🍗 Запечена куряча грудка](sekretna-kniga-receptiv/myaso/zapechena-kuryacha-grudka.md)
