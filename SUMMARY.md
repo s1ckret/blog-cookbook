@@ -3,6 +3,7 @@
 * [Секретна книга рецептів 🤫](README.md)
   * [🍲 Перше](sekretna-kniga-receptiv/pershe.md)
     * [🍜 Суп з яловичиною та квасолею](sekretna-kniga-receptiv/v-procesi/sup-z-yalovichinoyu-ta-kvasoleyu.md)
+    * [🍜 Борщ](sekretna-kniga-receptiv/pershe/borsh.md)
     * [🍜 Суп з фрікадельками](sekretna-kniga-receptiv/pershe/sup-z-frikadelkami.md)
     * [🍜 Гречаний суп](sekretna-kniga-receptiv/pershe/grechanii-sup.md)
   * [🧆 Друге](sekretna-kniga-receptiv/druge/README.md)
